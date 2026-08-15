@@ -1,0 +1,9 @@
+Questão 3.2 - Validação
+Qual o total de linhas somadas das seguintes tabelas: customers, orders, order_items e payments?
+
+customers   = 2000    
+orders      = 48998   
+order_items = 147320  
+payments    = 53546   
+
+TOTAL = 251864
