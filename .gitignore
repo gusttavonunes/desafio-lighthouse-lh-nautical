@@ -1,3 +1,7 @@
 
 .vscode
 data/*
+test_connection.py
+
+
+__pycache__
